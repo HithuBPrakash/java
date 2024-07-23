@@ -1,0 +1,177 @@
+.fa-bars {
+ font-size: 25px;
+}
+
+.fa-youtube {
+    font-size:70px;
+    color: red;
+   margin-left: 10px;
+}
+.header{
+    display: flex;
+     align-items: center;
+}
+
+.header p{
+    
+   
+    font-size: 30px;
+    text-decoration-color: black;
+    font-weight: bold;
+    margin-left: 20px;
+
+     
+}
+.header sup{
+    font-size: 15px;
+}
+
+.search{
+    border-radius: 15px;
+    width: 600px;
+    height: 30px;
+    margin-left: 150px;
+
+}
+.icon{
+   margin-left: -50px;
+   
+}
+.voice{
+    margin-left: 40px;
+    font-size: 20px;
+    border: 2px solid #b6acac;
+    border-radius: 300%;
+    border-width: 3px;
+    padding: 9px;
+    
+}
+.create{
+    margin-left:200px;
+    display: flex;
+    align-items: center;
+}
+.fa-bell{
+margin-left:30px ;
+}
+.fa-user{
+    margin-left:30px ;
+    font-size: 20px;
+    border: 2px solid #000000;
+    border-radius: 90%;
+  
+    padding: 9px
+}.videolists {
+    display: flex;
+    align-items: flex-start;
+}
+
+.video iframe {
+    border-radius: 50px;
+    padding: 8px;
+}
+
+.iframes {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: -20px;
+   
+}
+
+.video1 {
+    display: flex; 
+    align-items: flex-start; 
+    gap: 10px;
+    margin-top: 30px; 
+   
+   
+}
+
+.text {
+ width:  300px; 
+}
+.text p {
+  
+    font-size: 0.9em; 
+ text-decoration-color: 2px black;
+}
+.highlight{
+    font-weight: bold;
+}
+.heading {
+    margin-top: -200px;
+}
+
+.content article{
+   width: 800px;
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: -15px;
+  
+    
+}
+.extra{
+    display: flex;
+    align-items: center;
+}
+.extra img{
+    width: 50px;
+    border-radius: 50px;
+    padding: 10px;
+
+}
+.info{
+    display: flex;
+    flex-direction: column;
+   
+}
+.info h5{
+    margin-top: -20px;
+    color:#b6acac;
+}
+.button{
+ 
+   border-radius: 15px;
+   width: 90px;
+   height: 32px;
+text-align: center;
+line-height: 0px;
+   margin-left: 10px;
+ background-color: #000000;
+   color: white;
+  
+}
+.like{
+    border-radius: 15px;
+    width: 80px;
+    line-height: 35px;
+    height: 36px;
+    margin-left: 70px;
+  background-color: #ccc;
+    color: black;
+  
+}   
+.Share{
+    border-radius: 15px;
+    width: 80px;
+    line-height: 35px;
+    height: 36px;
+    margin-left: 40px;
+  background-color: #ccc;
+    color: black;
+}
+.download{
+    border-radius: 15px;
+    width: 90px;
+    line-height: 35px;
+    height: 36px;
+    margin-left: 40px;
+  background-color: #ccc;
+    color: black;
+}
+.dots{
+    margin-left: 40px;
+}
